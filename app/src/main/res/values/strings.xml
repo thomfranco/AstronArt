@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AstronArt</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AstronArt</string>
+    <string name="nav_header_subtitle">astronart.contato@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Imagem/Arte Visual</string>
+    <string name="menu_music">Áudio/Música</string>
+    <string name="dados_app">Dados</string>
+
+    <string name="instruction_content_desc">Ícone de mão deslizando para a direita</string>
+    <string name="app_icon_content_desc">Ícone do aplicativo recomendado</string>
+    <string name="app_screenshot_content_desc">Screenshot do aplicativo recomendado</string>
+
+    <string name="info_name">Nome:</string>
+    <string name="info_area">Escopo:</string>
+    <string name="info_platforms">Plataformas:</string>
+    <string name="info_buttonToWebsite">Acessar</string>
+    <string name="info_screenshots">Capturas de tela do</string>
+</resources>
